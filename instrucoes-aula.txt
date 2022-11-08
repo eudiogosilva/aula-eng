@@ -1,0 +1,2 @@
+baixa o jasmine, extrai dentro de uma pasta qualquer.
+Deleta os arquivos .js dentro de spec e src.
